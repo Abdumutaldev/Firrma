@@ -18,7 +18,7 @@ public class Bolim {
     private String nomi;
 
     @ManyToOne
-    private Firma firma;
+    private Firma firma1;
 
 
 
