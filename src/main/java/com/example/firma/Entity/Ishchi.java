@@ -22,7 +22,7 @@ public class Ishchi {
     @OneToOne
     private Manzil manzil;
 
-    @OneToOne
+    @ManyToOne
     private Bolim bolim;
 
 }
